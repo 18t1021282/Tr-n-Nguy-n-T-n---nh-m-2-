@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\bin\Debug\TranNguyenTan.exe.config
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\bin\Debug\TranNguyenTan.exe
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\bin\Debug\TranNguyenTan.pdb
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.Form1.resources
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.Properties.Resources.resources
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.exe
+C:\Users\PC\source\repos\TranNguyenTan\TranNguyenTan\obj\Debug\TranNguyenTan.pdb
